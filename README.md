@@ -1,2 +1,5 @@
 # test-project
 A project mainly focused on working towards a better understanding of the Godot game engine as well as the C# language
+
+
+This might be the worst thing you ever see in your life, so expect the worst.
